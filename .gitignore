@@ -6,9 +6,10 @@ lib-cov
 *.out
 *.pid
 *.gz
-
+tmp/
+node_modules/
+.gitignore
 pids
 logs
-results
-
+resultsgit
 npm-debug.log

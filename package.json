@@ -1,0 +1,15 @@
+{
+  "name": "compgen",
+  "version": "0.0.1",
+  "private": true,
+  "main": "robot.js",
+
+  "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/4apaev/nzumbe.git"
+  },
+  "dependencies": {
+    "colors": "*"
+  },
+  "devDependencies": {}
+}
